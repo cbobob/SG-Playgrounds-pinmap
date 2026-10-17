@@ -1,0 +1,1 @@
+It is an interactive mapping tool and categorized inventory of over 2,200 geocoded locations across Singapore. The platform maps out playgrounds grouped by category alongside the People's Association community centre network, complete with regional filtering and verified coordinates.
